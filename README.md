@@ -2,6 +2,7 @@
 
 A frontend animation practice project built using **HTML**, **CSS**, **JavaScript**, **GSAP**, and **ScrollTrigger**. This project focuses on creating smooth, scroll-based animations to improve UI interactions and gain hands-on experience with modern web animation techniques.
 
+
 ## 🚀 Features
 
 - Smooth scroll-triggered animations
@@ -9,6 +10,7 @@ A frontend animation practice project built using **HTML**, **CSS**, **JavaScrip
 - Timeline-based animations using GSAP
 - Responsive layout
 - Beginner-friendly project structure
+- 
 
 ## 🛠️ Tech Stack
 
@@ -30,6 +32,7 @@ A frontend animation practice project built using **HTML**, **CSS**, **JavaScrip
 
 This project was created as part of my frontend animation learning journey. The main goal was to understand how **GSAP ScrollTrigger** works and how to create engaging scroll-based animations that enhance the user experience.
 
+
 ## 💻 Getting Started
 
 1. Clone the repository
@@ -42,6 +45,7 @@ git clone https://github.com/Anand-1081/Gsap-scrollTrigger.git
 
 3. Run `index.html` using Live Server or open it directly in your browser.
 
+
 ## 📚 What I Learned
 
 - Creating scroll-triggered animations
@@ -50,13 +54,10 @@ git clone https://github.com/Anand-1081/Gsap-scrollTrigger.git
 - Pinning elements during scroll
 - Improving website interactivity with animations
 
+
 ## 🤝 Contributing
 
 Contributions, suggestions, and feedback are always welcome!
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
