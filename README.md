@@ -4,6 +4,9 @@ A frontend animation practice project built using **HTML**, **CSS**, **JavaScrip
 
 # live link  https://gsap-scroll-trigger-project-eight.vercel.app/
 
+# image <img width="1908" height="921" alt="image" src="https://github.com/user-attachments/assets/21b6a391-884d-43d1-87b6-331aa8f4e5aa" />
+
+
 ## 🚀 Features
 
 - Smooth scroll-triggered animations
