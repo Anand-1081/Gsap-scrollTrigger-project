@@ -2,6 +2,7 @@
 
 A frontend animation practice project built using **HTML**, **CSS**, **JavaScript**, **GSAP**, and **ScrollTrigger**. This project focuses on creating smooth, scroll-based animations to improve UI interactions and gain hands-on experience with modern web animation techniques.
 
+# live link  https://gsap-scroll-trigger-project-eight.vercel.app/
 
 ## 🚀 Features
 
